@@ -1,14 +1,15 @@
 <h2 align="center">Hi 👋, I'm Laureano Ivan Gerardo Vera</h2>
-
-###
-
 <h3 align="center">Software Developer and Computer Engineering Student</h3>
+
+- ♟ I’m currently working on [AIQlou](https://aiqlou.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://veralaureano.onrender.com/](https://veralaureano.onrender.com/)
+
+- 📫 How to reach me **laureanoivangerardo@gmail.com**
 
 ###
 
 <p align="left">Programming Languages:<br>· JavaScript / TypeScript / Python / Java</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -24,8 +25,6 @@
 
 <p align="left">Frontend Development:<br>· HTML / CSS / ReactJS / Svelte</p>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -40,8 +39,6 @@
 
 <p align="left">Backend Development:<br>· NodeJS / ExpressJS / Spring</p>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -54,8 +51,6 @@
 
 <p align="left">DataBase:<br>· MongoDB / MySQL</p>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
@@ -66,8 +61,6 @@
 
 <p align="left">DevOps:<br>· Bash / Docker</p>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
@@ -77,8 +70,6 @@
 ###
 
 <p align="left">Other:<br>· Git / GitHub / Linux / PhotoShop</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -108,7 +99,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/VeraLaureano/VeraLaureano/output/snake.svg" alt="Snake animation" />
 
 ###
