@@ -1,9 +1,9 @@
-<h2 align="center">I'm Laureano Vera</h2>
-<h3 align="center">Full Stack Developer 💻</h3>
+# I'm **Laureano Vera**
+### Full Stack Developer👾
 
-- ⚙ I’m currently working on [AIQlou](https://aiqlou.vercel.app/)
+- ⚙ I’m currently working on [AIQlou](https://aiqlou.vercel.app/ "DSA Website")
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://veralaureano.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://veralaureano.onrender.com/ "Look my work.")
 
 - 📫 How to reach me **laureanoivangerardo@gmail.com**
 
