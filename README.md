@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Laureano Ivan Gerardo Vera</h2>
-<h3 align="center">Software Developer and Computer Engineering Student</h3>
+<h2 align="center">I'm Laureano Vera</h2>
+<h3 align="center">Full Stack Developer 💻</h3>
 
-- ♟ I’m currently working on [AIQlou](https://aiqlou.vercel.app/)
+- ⚙ I’m currently working on [AIQlou](https://aiqlou.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://veralaureano.onrender.com/](https://veralaureano.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://veralaureano.onrender.com/)
 
 - 📫 How to reach me **laureanoivangerardo@gmail.com**
 
