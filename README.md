@@ -1,5 +1,5 @@
 # I'm **Laureano Vera**
-### Full Stack Developer 💻
+### Software Developer 💻
 
 - ⚙ I’m currently working on [AIQlou](https://aiqlou.vercel.app/ "DSA Website")
 
