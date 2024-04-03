@@ -3,7 +3,7 @@
 
 - ⚙ I’m currently working on [AIQlou](https://aiqlou.vercel.app/ "DSA Website")
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://veralaureano.onrender.com/ "Look my work.")
+- 👨‍💻 All of my projects are available at my [Portfolio](https://laureanovera.onrender.com/ "Look my work.")
 
 - 📫 How to reach me **laureanoivangerardo@gmail.com**
 
