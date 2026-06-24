@@ -1,104 +1,132 @@
-# I'm **Laureano Vera**
-### Software Developer 💻
+# Laureano Vera  
+### Desarrollador de Software · Investigador en ML · SAAS Founder 
 
-- ⚙ I’m currently working on [AIQlou](https://aiqlou.vercel.app/ "DSA Website")
+> *"La ciencia y la tecnología deberían ser herramientas para elevar la calidad de vida de todos."*  
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://laureanovera.onrender.com/ "Look my work.")
+[![Portfolio](https://img.shields.io/badge/Portfolio-laureanovera.onrender.com-blue?style=flat-square)](https://laureanovera.onrender.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laureano_Vera-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/laureano-ivan-vera-2b6a263b0) 
+[![Email](https://img.shields.io/badge/Email-laureanoivangerardovera%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:laureanoivangerardovera@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-VeraLaureano-181717?style=flat-square&logo=github)](https://github.com/VeraLaureano) 
 
-- 📫 How to reach me **laureanoivangerardo@gmail.com**
+---
 
-- 📄 Download CV [Here](https://drive.google.com/file/d/19QxDGzbj6-txl0Q9zSnE59NxERybhuzo/view?usp=drive_link)
+### 👨‍💻 Sobre mí  
 
-###
+Desarrollador de Backend entusiasta de la resolución de problemas y la optimización de
+procesos. Poseo un fuerte enfoque en la calidad, la eficiencia y la seguridad del código..  <br/>
+Construyo tecnología que resuelve problemas reales, especialmente para quienes no tienen acceso a soluciones tradicionales.  
 
-<p align="left">Programming Languages:<br>· JavaScript / TypeScript / Python</p>
+- 🔬 **Tesis de grado**: brazo biónico de bajo costo con calibración automática mediante *few-shot learning* sobre señales EMG.  
+- 🚀 **Proyectos activos**:  
+  - **BulkEd** – SaaS para entrenadores personales.  
+  - **AIQlou** – Plataforma e‑learning de algoritmos y estructuras de datos (mantenimiento pasivo).  
+- 📚 **Formación actual**: Licenciatura en Informática + Roadmap autodidacta de Machine Learning (32 semanas).  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+---
 
-###
+### 🛠️ Stack Tecnológico  
 
-<p align="left">Frontend Development:<br>· HTML / CSS / ReactJS / Svelte</p>
+<details open>
+<summary><b>Lenguajes</b></summary>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-</div>
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</details>
 
-###
+<details open>
+<summary><b>Backend</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</details>
 
-<p align="left">Backend Development:<br>· NodeJS / ExpressJS</p>
+<details open>
+<summary><b>Bases de datos</b></summary>
+<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-</div>
+<details open>
+<summary><b>Machine Learning / IA</b></summary>
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+</details>
 
-###
+<details open>
+<summary><b>DevOps & Herramientas</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+</details>
 
-<p align="left">DataBase:<br>· MongoDB / MySQL</p>
+<details open>
+<summary><b>Hardware & IoT</b></summary>
+<br>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+---
 
-###
+### 📌 Proyectos destacados  
 
-<p align="left">DevOps:<br>· Bash / Docker</p>
+**BulkEd** — SaaS de fitness con IA  
+- Generación automática de rutinas y sobrecarga progresiva.  
+- Panel para usuarios y entrenadores, tracking de progreso, mensajería integrada.  
+- Stack: React + TypeScript + Tailwind + Vite · Node.js + Express + Supabase.  
+- En beta con usuarios reales, monetización en preparación.  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+**AIQlou** — Plataforma e‑learning de algoritmos  
+- Visualización interactiva de estructuras de datos con control de velocidad.  
+- Desafíos multi‑lenguaje con ejecución en sandbox y ranking gamificado.  
+- Stack: React + Node.js + Express + Supabase.  
+- En producción, mantenimiento pasivo.  
 
-###
+---
 
-<p align="left">Other:<br>· Git / GitHub / Linux / PhotoShop</p>
+### 📈 Actualmente  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
+- ⚙️ Escalando **BulkEd** hacia la monetización.  
+- 📖 Cursando el **primer semestre de la Licenciatura en Informática (UNLP)**.  
+- 📅 Sesiones de **Machine Learning** 3 veces por semana (álgebra lineal → deep learning).  
+- ✍️ Preparando el **Paper 1** para CAIS / 55 JAIIO 2027 sobre detección de anomalías en EMG.  
 
-###
+---
 
-<img align="right" height="150" src="https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif"  />
+### 📫 Contacto  
 
-###
+- Portfolio: [laureanovera.onrender.com](https://laureanovera.onrender.com)  
+- LinkedIn: [linkedin.com/in/laureano-vera-320086204](https://www.linkedin.com/in/laureano-ivan-vera-2b6a263b0)  
+- Email: [laureanoivangerardovera@gmail.com](mailto:laureanoivangerardovera@gmail.com)  
+- GitHub: [github.com/VeraLaureano](https://github.com/VeraLaureano)  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/laureano-vera-320086204/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:laureanoivangerardo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/v3r4_l4ur1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /  
-  </a>
-</div>
+---
 
-###
-
-<br clear="both">
-
-###
+<p align="right">
+  <img height="150" src="https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" />
+</p>
