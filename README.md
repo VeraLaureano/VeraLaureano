@@ -16,7 +16,7 @@ Desarrollador de Backend entusiasta de la resolución de problemas y la optimiza
 procesos. Poseo un fuerte enfoque en la calidad, la eficiencia y la seguridad del código..  <br/>
 Construyo tecnología que resuelve problemas reales, especialmente para quienes no tienen acceso a soluciones tradicionales.  
 
-- 🔬 **Tesis de grado**: brazo biónico de bajo costo con calibración automática mediante *few-shot learning* sobre señales EMG.  
+- 🔬 brazo biónico de bajo costo con calibración automática mediante *few-shot learning* sobre señales EMG.  
 - 🚀 **Proyectos activos**:  
   - **BulkEd** – SaaS para entrenadores personales.  
   - **AIQlou** – Plataforma e‑learning de algoritmos y estructuras de datos (mantenimiento pasivo).  
