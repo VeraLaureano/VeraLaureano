@@ -111,9 +111,7 @@ Construyo tecnología que resuelve problemas reales, especialmente para quienes 
 
 ### 📈 Actualmente  
 
-- ⚙️ Escalando **BulkEd** hacia la monetización.  
-- 📖 Cursando el **primer semestre de la Licenciatura en Informática (UNLP)**.  
-- 📅 Sesiones de **Machine Learning** 3 veces por semana (álgebra lineal → deep learning).  
+- ⚙️ Escalando **BulkEd** hacia la monetización.    
 - ✍️ Preparando el **Paper 1** para CAIS / 55 JAIIO 2027 sobre detección de anomalías en EMG.  
 
 ---
